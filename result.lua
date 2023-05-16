@@ -13264,3 +13264,5 @@ emoji[13260] = nil
 emoji[13261] = nil
 emoji[13262] = nil
 emoji[13263] = nil
+
+return emoji
