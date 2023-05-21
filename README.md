@@ -4,4 +4,6 @@ item emoji growtopian
 
 # Usage
 ```local emoji = assert(load(request('GET','https://raw.githubusercontent.com/Neuromans/itemImage/main/resultEmoji.lua'))())```
-![alt img](https://cdn.discordapp.com/attachments/985689423796666419/1109802144741212190/code.png)
+![alt img](https://cdn.discordapp.com/attachments/985689423796666419/1109805408568217660/code.png)
+result be showing
+![alt img2](https://cdn.discordapp.com/attachments/985689423796666419/1109805803487121449/image.png)
